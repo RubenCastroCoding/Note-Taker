@@ -11,3 +11,5 @@ to allow the user to write and save notes on our website
 Feel free to reach out to me.
 Github: https://github.com/RubenCastroCoding
 Email: RubenCastroCoding@gmail.com
+
+### Screenshot
