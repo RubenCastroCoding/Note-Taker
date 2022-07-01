@@ -13,3 +13,4 @@ Github: https://github.com/RubenCastroCoding
 Email: RubenCastroCoding@gmail.com
 
 ### Screenshot
+![Notetaker](https://user-images.githubusercontent.com/98436010/176815266-c0596c0c-f44d-4a45-9dc8-6de031dd7f08.JPG)
